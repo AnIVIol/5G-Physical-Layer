@@ -1,0 +1,1 @@
+openExample('5g/NewRadioSRSConfigurationExample')
